@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "ملاعب | احجز ملعبك",
+  "short_name": "ملاعب",
+  "description": "اكتشف ملاعب منطقتك وأرسل طلب حجز لمباراتك القادمة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07130f",
+  "theme_color": "#07130f",
+  "categories": ["sports", "lifestyle"],
+  "icons": [
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
